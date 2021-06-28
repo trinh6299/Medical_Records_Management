@@ -1,0 +1,53 @@
+C:\Users\trinh\Desktop\QLBenhAn\DAL\bin\Debug\DAL.dll
+C:\Users\trinh\Desktop\QLBenhAn\DAL\bin\Debug\DAL.pdb
+C:\Users\trinh\Desktop\QLBenhAn\DAL\bin\Debug\DTO.dll
+C:\Users\trinh\Desktop\QLBenhAn\DAL\bin\Debug\DTO.pdb
+C:\Users\trinh\Desktop\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\QLBenhAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trinh\Desktop\QLBenhAn\DAL\obj\Debug\DAL.dll
+C:\Users\trinh\Desktop\QLBenhAn\DAL\obj\Debug\DAL.pdb
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.dll
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.pdb
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.dll
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.pdb
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.dll
+C:\Users\tranducduy\Downloads\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.pdb
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.dll
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.pdb
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.dll
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.pdb
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.dll
+C:\Users\trinh\Desktop\Nhom7-master\Nhom7-master\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.pdb
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.dll
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.pdb
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.dll
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.pdb
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.dll
+C:\Users\Trinh6299\Desktop\Thinkpad_T450s_sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.pdb
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.dll
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.pdb
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.dll
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.pdb
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.dll
+C:\Users\trinh\Desktop\Thinkpad T450s sync\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.pdb
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.dll
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DAL.pdb
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.dll
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\bin\Debug\DTO.pdb
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.dll
+E:\HAUI\ki 2 nam 3\Lap trinh Windows\BTLC#_Nhom7_HTTT1_K12\QLBenhAn\QLBenhAn\DAL\obj\Debug\DAL.pdb
